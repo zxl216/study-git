@@ -8,3 +8,5 @@ branch master and hot-fix test for merge 2
 Good good study, day day up!
 
 test for merge 1.
+
+test for pull .
