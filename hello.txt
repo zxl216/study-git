@@ -4,7 +4,7 @@ hello world! hello git!
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
-
+branch master test for merge 2
 Good good study, day day up!
 
 test for merge 1.
